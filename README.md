@@ -1,2 +1,2 @@
 # coopprostart
-coopprostart projet
+coopprostart projet pro
